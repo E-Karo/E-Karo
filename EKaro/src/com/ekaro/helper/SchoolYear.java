@@ -1,4 +1,4 @@
-package com.ekaro.pojo;
+package com.ekaro.helper;
 
 public enum SchoolYear {
     NURSERY("Kindergarten",0),

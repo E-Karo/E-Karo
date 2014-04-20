@@ -1,12 +1,14 @@
 package com.ekaro.pojo;
 
+import com.ekaro.helper.SchoolYear;
+
 public class Student {
 	
-	private int admNo;
+	private int admissionNumber;
+	private School school;
 	private String firstName;
 	private String lastName;
-	private School school;
-	private float feesBalance;
-	
+	private Fees feesBalance;
+	private SchoolYear schoolYear;
 
 }
