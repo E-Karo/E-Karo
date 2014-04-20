@@ -1,4 +1,6 @@
-package com.example.ekaro;
+package com.ekaro;
+
+import com.karo.R;
 
 import android.os.Bundle;
 import android.app.Activity;
