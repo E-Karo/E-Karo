@@ -6,7 +6,7 @@ public class Student {
 	private String firstName;
 	private String lastName;
 	private School school;
-	private float feesBalance;
+	private Fees fess;
 	
 
 }
