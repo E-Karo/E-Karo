@@ -6,6 +6,6 @@ public class School {
 	private long schoolCode;
 	private String countyName;
 	private String schoolType; // high school, college, university, ets.
-	private float schoolFees;
+	private Fees fees;
 
 }
