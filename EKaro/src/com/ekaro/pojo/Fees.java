@@ -28,7 +28,7 @@ public class Fees {
 	public void setYear(int year) {
 		this.year = year;
 	}
-	public Semester getSemester() {
+	public Semester getSemester() { 
 		return semester;
 	}
 	public void setSemester(Semester semester) {
