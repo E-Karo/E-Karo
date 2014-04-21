@@ -1,0 +1,7 @@
+package com.ekaro.webservices;
+
+public interface WebService {
+	
+	
+
+}

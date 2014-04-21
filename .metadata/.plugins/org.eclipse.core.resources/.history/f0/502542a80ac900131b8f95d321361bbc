@@ -1,0 +1,12 @@
+package com.ekaro.webservices;
+
+public class WebServices extends com.ekaro.dao.DaoImpl{
+
+	@Override
+	public void insertSchoolByCode(long schoolCode) {
+		super.insertSchoolByCode(schoolCode);
+		String kiprotich = "lksdlkfjasdf";
+	}
+
+	
+}
